@@ -5,9 +5,9 @@ function App() {
   return (
     <div className="App">
             
-      <section class="pricing py-5">
-        <div class="container">
-          <div class="row">
+      <section className="pricing py-5">
+        <div className="container">
+          <div className="row">
           <Card price="0"/>
           <Card price="9"/>
           <Card price="49"/>
